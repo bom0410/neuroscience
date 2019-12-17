@@ -55,3 +55,20 @@ header {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+header .nav-item:last-child {
+    padding-right: 10.5em;
+}
+
+
+header .nav-item {
+    padding: 0.9em;
+}
+
+header .navbar-brand {
+    padding-left: 8rem;
+}
+
+header .nav-link:hover {
+    color: black;
+}
